@@ -1,1 +1,3 @@
-# Nhan_dang_10_foodsVN
+# Nhận dạng 10 loại trái cây
+
+### Link Kaggle
